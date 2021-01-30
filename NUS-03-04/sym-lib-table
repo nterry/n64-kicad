@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Nintendo_64)(type Legacy)(uri ${KIPRJMOD}/nintendo_64.lib)(options "")(descr ""))
+)
